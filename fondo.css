@@ -1,0 +1,12 @@
+body{
+    
+    margin-top: 3%;
+    background-color:hsl(64, 100%, 95%) ;
+
+    div{
+        margin-top: 5%;
+        line-height: 1.5;
+        margin-left: 25%;
+    }
+    
+}
